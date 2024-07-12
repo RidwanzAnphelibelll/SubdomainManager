@@ -1,0 +1,16 @@
+{
+  "name": "SubdomainManager",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "RidwanzSaputra",
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.66.0",
+    "express": "^4.19.2",
+    "axios": "^1.7.2"
+  }
+}
