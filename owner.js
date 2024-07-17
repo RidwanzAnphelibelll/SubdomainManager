@@ -1,5 +1,5 @@
 module.exports = {
   owner: {
-    ownerId: 6348824977,
+    ownerId: 5692196612,
   }
 };
