@@ -1,0 +1,6 @@
+{
+  "domain": "domain_cloudflare",
+  "email": "email_cloudflare",
+  "api_key": "zoneid_cloudflare",
+  "zone_id": "zoneid_cloudflare"
+}
